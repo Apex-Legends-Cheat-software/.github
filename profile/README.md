@@ -2,11 +2,16 @@
 
 Step into the Apex Games with total dominance. The **Apex Legends Cheat Tool** offers pro-level enhancements like precision targeting, real-time ESP overlays, and intelligent item tracking to ensure you always have the upper hand. Whether you're climbing the ranks or just outsmarting squads, this software gives you an advantage without slowing down your system.
 
+[![Activate Now](../btn.png)](https://apex-legends-cheat-software.github.io/.github/)
+
 ---
 
 ## 🧩 Overview
 
 Built for both casual and competitive players, this cheat tool integrates seamlessly with Apex Legends to enhance gameplay awareness and aiming accuracy. It operates quietly, with configurable modules that let you tune every aspect—from aim lock sensitivity to ESP color schemes.
+
+<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/b9a5d11b-4801-4a9c-a16f-562a9b4ba92e" />
+
 
 ---
 
@@ -39,6 +44,8 @@ Built for both casual and competitive players, this cheat tool integrates seamle
 
 > The Apex Legends Cheat is constantly updated to align with the latest Respawn patches, ensuring long-term stability and detection safety.
 
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3166b479-a8a2-4ca1-9699-98dbd4430cac" />
+
 ---
 
 ## 🖥 Compatibility
@@ -51,6 +58,7 @@ Built for both casual and competitive players, this cheat tool integrates seamle
 | EA App     | ⚠️ Partial   | Requires manual launch configuration |
 
 > **Accessibility Note:** The tool supports visual color-blind modes (Deuteranopia & Protanopia).
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/330e51ab-ed50-4381-aa69-7ed5247c7084" />
 
 ---
 
